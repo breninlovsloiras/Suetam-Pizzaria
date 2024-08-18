@@ -1,0 +1,491 @@
+body {
+    background-color: #fa1b37;
+}
+
+header {
+    display: flex;
+    margin-left: 65px;
+}
+
+#elemh {
+    margin-right: 140px;
+    margin-left: 30px;
+    margin-top: 50px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: "inter", sans-serif;
+    text-decoration: none;
+}
+
+#headerzin {
+    margin-left: 150px;
+}
+
+#headerzinq {
+    margin-left: 220px;
+    margin-top: 50px;
+}
+
+#but1 {
+    background-color: #f8c700;
+    color: black;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 5%;
+}
+
+#logo {
+    width: 200px;
+    margin-top: 20px;
+}
+
+
+#textin {
+    margin-top: 100px;
+    margin-left: 270px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: "Skranji", sans-serif;
+
+}
+
+#imgpizza {
+    width: 100px;
+    margin-left: 700px;
+    margin-top: 130px;
+}
+
+
+
+#pontinhos {
+    margin-left: 1450px;
+    margin-top: -300px;
+}
+
+#mesq {
+    margin-top: -40px;
+    margin-left: -15px;
+}
+
+#mdi {
+    margin-left: 1730px;
+    margin-top: -400px;
+}
+
+#bodyquemsomos {
+    background-color: #f8c700;
+}
+
+#elemhq {
+    margin-right: 140px;
+    margin-left: 30px;
+    margin-top: 50px;
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: "inter", sans-serif;
+    text-decoration: none;
+}
+
+#but2 {
+    background-color: #fa1b37;
+    color: white;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+}
+
+#cogamarelo {
+    width: 130px;
+    margin-left: 1296px;
+    margin-top: -90px;
+
+
+}
+
+#logo2 {
+    width: 180px;
+    height: 120px;
+    margin-top: 30px;
+}
+
+#imgqms {
+    margin-left: 500px;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+#maeescritoquemsomos {
+    margin-left: 900px;
+    margin-top: -120px;
+}
+
+#nossatexto {
+    color: black;
+    font-weight: bold;
+    font-size: 21px;
+    font-family: "inter", sans-serif;
+}
+
+#nossa {
+    color: black;
+    font-weight: 1200;
+    font-size: 45px;
+}
+
+#tracoamarelo {
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+#cebama {
+    margin-left: 1670px;
+    margin-top: -8000px;
+}
+
+#headerzinc {
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+#cimg {
+    margin-left: 750px;
+}
+
+#cardesc {
+    color: black;
+    font-weight: bold;
+    font-size: 21px;
+    font-family: "inter", sans-serif;
+
+    margin-top: 30px;
+    text-align: center;
+}
+
+#bid {
+    margin-left: 1690px;
+    margin-top: -900px;
+}
+
+#form1 {
+    background-color: #ead8b1;
+    width: 230px;
+    margin-left: 600px;
+    margin-top: -450px;
+    border-radius: 10%;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+}
+
+#form2 {
+    background-color: #ead8b1;
+    width: 230px;
+    margin-left: 1070px;
+    margin-top: -280px;
+    border-radius: 10%;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+}
+
+#but3 {
+    background-color: #fa1b37;
+    color: white;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left: 850px;
+}
+
+#txt {
+    margin-left: 19px;
+}
+
+#headerzinctt {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+#ctt {
+    color: white;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+    font-size: 70px;
+    text-align: center;
+}
+
+#ctt2 {
+    color: white;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    margin-top: -30px;
+    text-align: center;
+}
+
+#telctt {
+    width: 400px;
+    margin-top: -330px;
+    margin-left: 40px;
+}
+
+#fzp {
+    text-decoration: none;
+    color: #fa1b37;
+}
+
+#fzp1 {
+    text-decoration: none;
+    color: white;
+}
+
+#buttt {
+    background-color: #fa1b37;
+    color: white;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+
+}
+
+#iconctt {
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+#tctt {
+    margin-left: 700px;
+    margin-top: -330px;
+}
+
+#tctt1 {
+    margin-left: 700px;
+    margin-top: -110px;
+}
+
+#tctt2 {
+    margin-left: 700px;
+    margin-top: 100px;
+
+}
+
+#but4 {
+    background-color: #f8c700;
+    color: black;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left: 850px;
+}
+
+#picort {
+    margin-left: 1655px;
+    margin-top: -183px;
+}
+
+#fun {
+    margin-left: 1500px;
+    margin-top: -600px;
+}
+
+#headerzincon {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+#user {
+    width: 15%;
+    margin-top: -300px;
+    margin-left: 70px;
+}
+
+#user2 {
+    width: 10%;
+    margin-left: 1600px;
+    margin-top: -400px;
+}
+
+#email {
+    margin-left: 770px;
+}
+
+#email1 {
+    margin-left: 770px;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+    color: white;
+}
+
+#senha {
+    margin-left: 770px;
+}
+
+#senha1 {
+    margin-left: 770px;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+    color: white;
+}
+
+#but5 {
+    background-color: #f8c700;
+    color: black;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left: 850px;
+}
+
+#contac1 {
+    text-decoration: none;
+    color: #f8c700;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+
+}
+
+#pzin {
+    color: white;
+}
+
+#maecc {
+    text-align: center;
+    font-family: "inter", sans-serif;
+    font-weight: 900;
+
+}
+
+#vm {
+    text-decoration: none;
+    color: black;
+}
+
+#fimg {
+    margin-left: 600px;
+    margin-top: -30px;
+}
+
+#cardapio {
+    margin-left: 550px;
+    margin-top: -500px;
+}
+
+#but7 {
+    background-color: #fa1b37;
+    color: white;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left: 850px;
+}
+
+section {
+    background-image: url("cardapio.png");
+
+}
+
+#selec1 {
+    margin-left: 830px;
+    margin-top: -460px;
+}
+
+#selec {
+    color:
+        white;
+}
+
+#conf {
+    text-decoration: none;
+    color: white;
+}
+
+#conf2 {
+    text-decoration: none;
+    color: white;
+}
+
+#but9 {
+    background-color: #fa1b37;
+    color: white;
+    border: none;
+    font-weight: 900;
+    width: 130px;
+    height: 40px;
+
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+    margin-left: 850px;
+}
+
+#but99 {
+    margin-top: 200px;
+    align-items: center;
+}
+
+#ult {
+    text-decoration: none;
+    color: white;
+}
+
+#pef {
+    margin-top: 100px;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "inter", sans-serif;
+    text-align: center;
+}
+
+#but8 {
+    background-color: #fa1b37;
+    color: white;
+    border: none;
+    font-weight: 900;
+    width: 300px;
+    height: 100px;
+    font-size: 30px;
+    border-radius: 5%;
+    margin-left: 800px;
+
+}
+
+#bid2 {
+    margin-top: -600px;
+    margin-left: 1650px;
+}
